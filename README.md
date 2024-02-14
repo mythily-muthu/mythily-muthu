@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mythily-muthu" alt="mythily-muthu" /></a> </p>
 
-- 🔭 I’m currently working on **Hay Clothing**
+- 🔭 I’m currently working on **Vetnet_Social**
 
 - 🌱 I’m currently learning **Next JS**
 
